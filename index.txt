@@ -1,0 +1,55 @@
+ Matrix
+- Number of Islands
+- Pacific Atlantic Water Flow
+- Surrounded Regions
+
+
+**DFS (general):**
+
+- Friend Circles (connected components)
+- Course Schedule (connected components/cycle detection)
+- Employee Importance (recursive exploration)
+- Shopping Offers
+
+**_DFS on graphs:_**
+
+- Course Schedule
+- Flood Fill
+- Number of Closed Islands
+- Number of Islands
+
+**_DFS on trees:_**
+Tree traversal/exploration
+
+- Path Sum
+- Path Sum II
+- Sum Root to Leaf Numbers
+
+
+**Frequency Counting (Hash Table):**
+
+- Group Anagrams
+- Longest Palindrome
+- Unique Number of Occurrences
+- Verifying an Alien Dictionary
+
+7. **Prefix Sums:**
+
+- Range Sum Query - Immutable
+- Subarray sum equals k
+
+8. **Sliding Window:**
+
+- Longest Repeating Character Replacement
+- Longest Substring Without Repeating Character
+- Longest Turbulent Subarray
+- Minimum Window Substring
+
+**DP (dynamic programming):**
+
+- Decode Ways
+- Longest Common Subsequence
+- House Robber
+- Min Cost Path
+- Unique Paths
+
